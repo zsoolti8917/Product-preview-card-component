@@ -32,11 +32,11 @@ Users should be able to:
 ### Screenshot
 
 Finished project on a 1440px screen
-![Finished project on 1440px](solutions/PC%20Solution.png)
+![Finished project on 1440px](Solution/PC%20Solution.png)
 
 Finished project on a 375px screen
 <br />
-![Finished project on 375px](solutions/Phone%20solution.png)
+![Finished project on 375px](Solution/Phone%20solution.png)
 
 ### Links
 
@@ -56,7 +56,7 @@ Finished project on a 375px screen
 
 ### What I learned
 
-This challange was amongst my first, i followed Kevin Powell's tutorial on youtube so the code is not my owen but it geratly helped me understand how to use flexbox and grid. I also learned how to use media queries and how to make a responsive website. It greatly contributed to my current knowledge of web development.
+This challange was amongst my first, i followed Kevin Powell's [tutorial](https://www.youtube.com/watch?v=B2WL6KkqhLQ) on youtube so the code is not my own but it geratly helped me understand how to use flexbox and grid. I also learned how to use media queries and how to make a responsive website. It greatly contributed to my current knowledge of web development.
 
 
 
